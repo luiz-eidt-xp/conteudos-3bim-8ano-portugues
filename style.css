@@ -1,0 +1,22 @@
+#titulo {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: 220%;
+   }
+
+   
+   
+
+#div0, #div1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+
+
+
+html {
+    background-color: #E6E6FA;
+}
+
+#link1 {
+    border: solid;
+}
